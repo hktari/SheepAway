@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SheepAway.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B5414EDA-1BA8-4CA9-A743-14BB2CEE8A44}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SheepAway.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SheepAwayEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9BDE5953-CF4B-46E7-8F6A-9997ACE24D39}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SheepAway">
+      <UniqueIdentifier>{2C371AA0-AAE8-429C-B9D1-D98555D77FE3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SheepAway\InteractableObject.cpp">
+      <Filter>Source\SheepAway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheepAway\InteractableObject.h">
+      <Filter>Source\SheepAway</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SheepAway\MyEnums.cpp">
+      <Filter>Source\SheepAway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheepAway\MyEnums.h">
+      <Filter>Source\SheepAway</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SheepAway\PlayerInteractionComponent.cpp">
+      <Filter>Source\SheepAway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheepAway\PlayerInteractionComponent.h">
+      <Filter>Source\SheepAway</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SheepAway\SheepAway.Build.cs">
+      <Filter>Source\SheepAway</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SheepAway\SheepAway.cpp">
+      <Filter>Source\SheepAway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheepAway\SheepAway.h">
+      <Filter>Source\SheepAway</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SheepAway\SheepBehaviour.cpp">
+      <Filter>Source\SheepAway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheepAway\SheepBehaviour.h">
+      <Filter>Source\SheepAway</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SheepAway\StationaryWaypoint.cpp">
+      <Filter>Source\SheepAway</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SheepAway\StationaryWaypoint.h">
+      <Filter>Source\SheepAway</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\SheepAway\InteractableInteractionComponent.h">
+      <Filter>Source\SheepAway</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\SheepAway\InteractableInteractionComponent.cpp">
+      <Filter>Source\SheepAway</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

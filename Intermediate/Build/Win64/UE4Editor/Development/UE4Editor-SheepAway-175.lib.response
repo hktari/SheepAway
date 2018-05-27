@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SheepAway-175.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"B:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\InteractableObject.cpp.obj"
+"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\PlayerInteractionComponent.cpp.obj"
+"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\SheepAway.cpp.obj"
+"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\SheepBehaviour.cpp.obj"
+"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\InteractableObject.gen.cpp.obj"
+"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\PlayerInteractionComponent.gen.cpp.obj"
+"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\SheepAway.init.gen.cpp.obj"
+"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\SheepBehaviour.gen.cpp.obj"
+"B:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\SheepAway\PCLaunch.rc.res"
+"B:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"X:\Dokumenti\Unreal Projects\SheepAway\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SheepAway-175.lib"

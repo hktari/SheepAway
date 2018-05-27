@@ -1,0 +1,14 @@
+# UE4
+Binaries/
+Saved/
+SheepAway.VC.db
+Content/StarterContent/
+
+# Visual Studio 
+# User-specific files
+#*.suo
+#*.user
+#*.userosscache
+#*.sln.docstates
+# cache/options directory
+.vs/
